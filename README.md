@@ -4,6 +4,7 @@ Since this is my first article, I’ve limited myself to just one class of detec
 ## The structure of model
 ![asset\model.png](asset/model.png)
 
+The left half of the model architecture consists of the underwater image preprocessing section, which is based on the HUPE algorithm.
 ## Dataset Structe
 If you want to train on custom datasets you should paper dataset as following structure:
 ```
