@@ -48,6 +48,7 @@ get_model_erf.py
 
 ## 
 If you find our work useful in your research, please cite our paper:
+
 @article{shen2026underwater,
   title={Underwater structural crack detection via inverse-domain alignment contextual-frequency feature fusion},
   author={Shen, Shiqin and Wei, Ruikai and Sun, Panfeng and Zhang, Xuewu},
